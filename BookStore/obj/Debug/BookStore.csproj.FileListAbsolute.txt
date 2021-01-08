@@ -1,0 +1,6 @@
+C:\Users\Pratik Kadu\source\repos\BookStore\BookStore\bin\Debug\BookStore.exe.config
+C:\Users\Pratik Kadu\source\repos\BookStore\BookStore\bin\Debug\BookStore.exe
+C:\Users\Pratik Kadu\source\repos\BookStore\BookStore\bin\Debug\BookStore.pdb
+C:\Users\Pratik Kadu\source\repos\BookStore\BookStore\obj\Debug\BookStore.csproj.CoreCompileInputs.cache
+C:\Users\Pratik Kadu\source\repos\BookStore\BookStore\obj\Debug\BookStore.exe
+C:\Users\Pratik Kadu\source\repos\BookStore\BookStore\obj\Debug\BookStore.pdb
